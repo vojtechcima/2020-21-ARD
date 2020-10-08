@@ -4,3 +4,4 @@ venv/
 
 profile_default/
 ipython_config.py
+*_solution.ipynb
