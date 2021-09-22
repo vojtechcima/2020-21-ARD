@@ -1,0 +1,11 @@
+jupyter
+tensorflow
+matplotlib
+scikit-learn
+seaborn
+pandas
+nltk
+textblob
+requests
+numpy
+tqdm
